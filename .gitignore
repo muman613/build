@@ -1,0 +1,8 @@
+nohup.out
+libs/
+obj/
+bin/
+deps/
+log
+buildlog
+*~
